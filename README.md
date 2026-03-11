@@ -10,10 +10,6 @@ This project demonstrates how simple geometric shapes and turtle movements can b
 
 ![Spider Man Turtle Art](./spider_man.png)
 
-or
-
-![Spider Man Turtle Art](./spider_man2.png)
-
 ---
 
 ## 🚀 Features
